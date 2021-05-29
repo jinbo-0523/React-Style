@@ -22,6 +22,7 @@ export const InlineStyle = () => {
   return (
     <div style={containerStyle}>
       <p style={title}>- Inline Styles -</p>
+      <p>宣言してスタイルを作成・当てていく</p>
       <button style={buttonStyle}>Fight!!!</button>
     </div>
   );
